@@ -1,6 +1,3 @@
-# git_test
-git first test
-
 # AI 모델 재현 및 성능 비교 과제 #
 
 # 재현 코드
